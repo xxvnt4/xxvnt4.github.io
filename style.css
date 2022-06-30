@@ -39,6 +39,7 @@ h3 {
     font-family: Comfortaa;
     font-size: 16px;
     margin-top: 70px;
+    margin-bottom: 100px;
 }
 
 .salary {
@@ -95,8 +96,6 @@ img {
     color: #696969;
 }
 
-
-
 .location_age {
     font-size: 18px;
     line-height: 2;
@@ -107,10 +106,14 @@ img {
 }
 
 .language_button {
-    margin-bottom: 80px;
+    margin-bottom: 40px;
     font-size: 12px;
 }
 
 .table_row {
     height: 30px;
+}
+
+.contacts_subtitle {
+    margin-top: 45px;
 }
