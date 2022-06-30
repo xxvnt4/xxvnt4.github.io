@@ -1,0 +1,91 @@
+h1 {
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+p {
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+
+.table_contacts {
+    margin-left: 20%;
+    margin-right: 50%;
+    width: 50%;
+    margin-bottom: 30px;
+}
+
+h3 {
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 20px;
+    margin-top: 40px;
+}
+
+.programmer {
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 10px;
+}
+
+.body {
+    font-family: Comfortaa;
+    font-size: 16px;
+}
+
+.salary {
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 30px;
+}
+
+.table_languages {
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 30px;
+    width: 50%;
+}
+
+.column_contacts {
+    width: 30%;
+    height: 25px;
+    color: #696969;
+}
+
+a {
+    text-decoration: none;
+    color: #0B4C5F;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+.about {
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 30px;e
+    line-height: 1.5;
+    color: #696969;
+}
+
+.skills {
+    word-spacing: 30px;
+    color: #696969;
+    line-height: 2;
+}
+
+.p_certificates {
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 0px;
+    margin-bottom: 100px;
+    word-spacing: 30px;
+    line-height: 2;
+}
