@@ -1,29 +1,30 @@
 h1 {
     margin-left: 20%;
     margin-right: 20%;
-    margin-top: 30px;
-    margin-bottom: 15px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    font-size: 35px;
 }
 
 p {
     margin-left: 20%;
     margin-right: 20%;
     margin-top: 0px;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 
 .table_contacts {
     margin-left: 20%;
     margin-right: 50%;
-    width: 50%;
+    width: 70%;
     margin-bottom: 30px;
 }
 
 h3 {
     margin-left: 20%;
     margin-right: 20%;
-    margin-bottom: 20px;
-    margin-top: 40px;
+    margin-bottom: 30px;
+    margin-top: 64px;
 }
 
 .programmer {
@@ -35,6 +36,7 @@ h3 {
 .body {
     font-family: Comfortaa;
     font-size: 16px;
+    margin-top: 70px;
 }
 
 .salary {
@@ -47,18 +49,17 @@ h3 {
     margin-left: 20%;
     margin-right: 20%;
     margin-bottom: 30px;
-    width: 50%;
+    width: 70%;
 }
 
 .column_contacts {
     width: 30%;
     height: 25px;
-    color: #696969;
 }
 
 a {
     text-decoration: none;
-    color: #0B4C5F;
+    color: #6495ED;
 }
 
 img {
@@ -70,22 +71,44 @@ img {
 .about {
     margin-left: 20%;
     margin-right: 20%;
-    margin-bottom: 30px;
+    margin-bottom: 30px;e
     line-height: 1.5;
     color: #696969;
 }
 
-.skills {
-    word-spacing: 30px;
+.job_name {
+    line-height: 2;
+    margin-bottom: 32px;
+}
+
+.job_about {
+    margin-left: 3%;
     color: #696969;
+    margin-bottom: 60px;
+    line-height: 1.5;
+}
+
+.skills {
+    line-height: 2;
+    color: #696969;
+}
+
+
+
+.location_age {
+    font-size: 18px;
     line-height: 2;
 }
 
-.p_certificates {
-    margin-left: 20%;
-    margin-right: 20%;
-    margin-top: 0px;
-    margin-bottom: 100px;
-    word-spacing: 30px;
-    line-height: 2;
+.column_second {
+    color: #696969;
+}
+
+.language_button {
+    margin-bottom: 80px;
+    font-size: 12px;
+}
+
+.table_row {
+    height: 30px;
 }
