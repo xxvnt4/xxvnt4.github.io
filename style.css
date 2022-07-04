@@ -106,7 +106,7 @@ img {
 }
 
 .language_button {
-    margin-bottom: 40px;
+    margin-bottom: 20px;
     font-size: 12px;
 }
 
@@ -116,4 +116,23 @@ img {
 
 .contacts_subtitle {
     margin-top: 45px;
+}
+
+.letter_button {
+    margin-bottom: 40px;
+    font-size: 12px;
+}
+
+.language_buttom_eng {
+    margin-bottom: 69px;
+    font-size: 12px;
+}
+
+.a_letter {
+    color: #FF8C00;
+}
+
+.letter_title {
+    margin-top: 69px;
+    margin-bottom: 45px;
 }
