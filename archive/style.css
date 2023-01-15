@@ -62,7 +62,15 @@ h3 {
 
 a {
     text-decoration: none;
-    color: #74C2FF;
+    color: #A9BCF5;
+}
+
+.about {
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 30px;e
+    line-height: 3;
+    color: #696969;
 }
 
 img {
@@ -116,18 +124,4 @@ img {
 
 .contacts_subtitle {
     margin-top: 45px;
-}
-
-.letter_button {
-    margin-top: 40px;
-    font-size: 18px;
-}
-
-.a_letter {
-    color: #
-}
-
-.letter_title {
-    margin-top: 69px;
-    margin-bottom: 45px;
 }
